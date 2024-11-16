@@ -3048,7 +3048,7 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 	position: absolute;
 	width: inherit;
 	height: inherit;
-	background-image: url("../img/bt-bonus.png");
+	background-image: url("../img/bt-bonus.svg");
 	background-repeat: no-repeat;
 	background-size: 840px 2520px;
 	background-position: 0px -2520px;
