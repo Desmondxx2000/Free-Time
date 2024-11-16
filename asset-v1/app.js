@@ -29,8 +29,7 @@ var app = new function() {
     {name: "12_Berm", color: "#03f0fc", uniqsnd: !0},
     {name: "13_Chipper", color: "#03f0fc", uniqsnd: !0},
     {name: "14_Deprss", color: "#03f0fc", uniqsnd: !1}], 
-    this.bonusarray = [
-    {name: "Free Time", src: "Free Time.mp4", code: "1,2,4,5,6", sound: "aspire", aspire: "aspire"}];
+    this.bonusarray = [];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
     var a = this.animearray[n].name;
     this.animearray[n].soundA = a + "_a", 
