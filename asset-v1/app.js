@@ -7,7 +7,7 @@ var app = new function() {
     this.bpm = 150, 
     this.totalframe = 260, 
     this.nbpolo = 7, 
-    this.nbloopbonus = 2, 
+    this.nbloopbonus = 16, 
     this.bonusloopA = !1, 
     this.bonusendloopA = !1,
     this.recmaxloop = 34, 
@@ -30,7 +30,7 @@ var app = new function() {
     {name: "13_Chipper", color: "#03f0fc", uniqsnd: !0},
     {name: "14_Deprss", color: "#03f0fc", uniqsnd: !1}], 
     this.bonusarray = [
-    {name: "Free Time", src: "Free Time.mp4", code: "1,2,4,5,6", sound: "", aspire: ""}];
+    {name: "Free Time", src: "Free Time.mp4", code: "1,2,4,5,6", sound: "aspire", aspire: "aspire"}];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
     var a = this.animearray[n].name;
     this.animearray[n].soundA = a + "_a", 
