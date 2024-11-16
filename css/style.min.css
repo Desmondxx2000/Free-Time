@@ -3050,8 +3050,8 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 	height: inherit;
 	background-image: url("../img/bt-bonus.png");
 	background-repeat: no-repeat;
-	background-size: 210px 630px;
-	background-position: 0px -630px;
+	background-size: 840px 2520px;
+	background-position: 0px -2520px;
 	opacity: 0.7;
 	transition: opacity 0.3s ease-in-out 0s;
 }
