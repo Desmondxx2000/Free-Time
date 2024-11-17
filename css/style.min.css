@@ -4042,39 +4042,39 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v1 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
-    background-position: 0 -70px
+    background-position: 0 -280px
 }
 
 .v1 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -70px
+    background-position: -280px -280px
 }
 
 .v1 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -70px
+    background-position: -560px -280px
 }
 
 .v2 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
-    background-position: 0 -140px
+    background-position: 0 -560px
 }
 
 .v2 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -140px
+    background-position: -280px -560px
 }
 
 .v2 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -140px
+    background-position: -560px -560px
 }
 
 .v3 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
-    background-position: 0 -210px
+    background-position: 0 -840px
 }
 
 .v3 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -210px
+    background-position: -280px 840px
 }
 
 .v3 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -210px
+    background-position: -560px -840px
 }
 
 .v4 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
@@ -4082,11 +4082,11 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v4 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -280px
+    background-position: -280px -280px
 }
 
 .v4 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -280px
+    background-position: -560px -280px
 }
 
 .v5 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
@@ -4094,11 +4094,11 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v5 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -350px
+    background-position: -280px -350px
 }
 
 .v5 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -350px
+    background-position: -560px -350px
 }
 
 .v6 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
@@ -4106,11 +4106,11 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v6 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -420px
+    background-position: -280px -420px
 }
 
 .v6 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -420px
+    background-position: -560px -420px
 }
 
 .v7 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
@@ -4118,11 +4118,11 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v7 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -490px
+    background-position: -280px -490px
 }
 
 .v7 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -490px
+    background-position: -560px -490px
 }
 
 .v8 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
@@ -4130,11 +4130,11 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 }
 
 .v8 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
-    background-position: -70px -560px
+    background-position: -280px -560px
 }
 
 .v8 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
-    background-position: -140px -560px
+    background-position: -560px -560px
 }
 
 #box-top .bt-bonus.unlock .quarter .svg.q0 {
