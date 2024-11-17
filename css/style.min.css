@@ -4008,8 +4008,8 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
     position: absolute;
     top: 8px;
     left: 8px;
-    width: 70px;
-    height: 70px;
+    width: 280px;
+    height: 280px;
     border-radius: 50%;
     background-color: #bebebe;
     transition: background-color .3s ease-in-out;
