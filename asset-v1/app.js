@@ -23,12 +23,12 @@ var app = new function() {
     this.col4 = "#00ffff", 
     this.animearray = [
     {name: "01_Bits", color: "#00ffff", uniqsnd: !0},
-    {name: "07_Dash", color: "#00ffff", uniqsnd: !1},
-    {name: "08_Menac", color: "#db0000", uniqsnd: !0},
-    {name: "11_Beep", color: "#00ffff", uniqsnd: !0},
-    {name: "12_Berm", color: "#ffaa00", uniqsnd: !0},
-    {name: "13_Chipper", color: "#ffff00", uniqsnd: !0},
-    {name: "14_Deprss", color: "#00ffff", uniqsnd: !1}], 
+    {name: "02_Dash", color: "#00ffff", uniqsnd: !1},
+    {name: "03_Menac", color: "#db0000", uniqsnd: !0},
+    {name: "04_Beep", color: "#00ffff", uniqsnd: !0},
+    {name: "05_Berm", color: "#ffaa00", uniqsnd: !0},
+    {name: "06_Chipper", color: "#ffff00", uniqsnd: !0},
+    {name: "07_Deprss", color: "#00ffff", uniqsnd: !1}], 
     this.bonusarray = [
     {name: "Free Time", src: "Free Time.mp4", code: "1,2,4,5,6", sound: "Free Time", aspire: "aspire"}];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
